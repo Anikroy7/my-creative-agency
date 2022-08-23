@@ -1,6 +1,7 @@
 import React from 'react';
 import BrandsLogo from './Components/BrandsLogo';
 import Header from './Components/Header';
+import OurWorks from './Components/OurWorks';
 import Services from './Components/Services';
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
             <Header></Header>
             <BrandsLogo></BrandsLogo>
             <Services></Services>
+            <OurWorks></OurWorks>
         </div >
     );
 };
