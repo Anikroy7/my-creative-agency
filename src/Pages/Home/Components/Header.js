@@ -13,7 +13,7 @@ const Header = () => {
             {/* This is header */}
 
 
-            <div class="hero bg-primary px-20 p-10">
+            <div class="hero bg-primary px-12 p-10">
                 <div class="hero-content flex-col lg:flex-row-reverse">
                     <img style={{ height: '300px' }} src={image} class="max-w-sm rounded-lg" />
                     <div className='mt-5'>

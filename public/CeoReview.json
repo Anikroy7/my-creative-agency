@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nash Patrik",
+        "designation": "Ceo, Manpol",
+        "description": "As the Senior Director of Education, Clark oversees Education Content Development, the HR hub/career resource work.",
+        "img": "https://i.ibb.co/BtKn6Pj/customer-1.png"
+    },
+    {
+        "name": "Miriam Barron",
+        "designation": "Ceo, Boston",
+        "description": " I want to talk a little bit about your experience at SAMPE and your experience in the composites industry. ",
+        "img": "https://i.ibb.co/LnJpX6J/customer-2.png"
+    },
+    {
+        "name": "Bria Malone",
+        "designation": "Ceo, Liverpool",
+        "description": "Certainly. SAMPE plays a unique role and provides a unique service to the composites community. We are a global organization. ",
+        "img": "https://i.ibb.co/rb55cmK/customer-3.png"
+    }
+]

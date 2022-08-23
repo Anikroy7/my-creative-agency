@@ -10,7 +10,7 @@ const Services = () => {
     }, [])
     console.log(services);
     return (
-        <section className='h-auto'>
+        <section className='h-auto px-12'>
             <div>
                 <h3 className='mb-28 text-3xl text-secondary font-bold text-center'>Provide awesome <span className='text-success'>Services</span></h3>
             </div>
