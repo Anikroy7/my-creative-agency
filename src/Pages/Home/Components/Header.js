@@ -27,7 +27,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FBD062" fill-opacity="1" d="M0,100L1440,4L1440,0L0,0Z"></path></svg>
+            <svg className='relative' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#FBD062" fill-opacity="1" d="M0,100L1440,4L1440,0L0,0Z"></path></svg>
         </div>
     );
 };

@@ -16,7 +16,7 @@ const Navbar = () => {
                     <li><a>Our Portfolio</a></li>
                     <li><a>Our Team</a></li>
                     <li><a>Contact us</a></li>
-                    <button class="btn btn-secondary text-white">Button</button>
+                    <button class="btn btn-secondary px-10 text-white">Login </button>
                 </ul>
             </div>
         </div>
