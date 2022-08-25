@@ -1,5 +1,7 @@
 import React from 'react';
 import logo from '../../../images/images/logos/logo.png'
+import { Link } from 'react-router-dom';
+
 
 const Navbar = () => {
 
@@ -16,7 +18,8 @@ const Navbar = () => {
                     <li><a>Our Portfolio</a></li>
                     <li><a>Our Team</a></li>
                     <li><a>Contact us</a></li>
-                    <button class="btn btn-secondary px-10 text-white">Login </button>
+                    <li> <Link to='/signup'><a>Sign Up</a></Link></li>
+                    <button class="btn btn-secondary px-10 text-white"><Link to='/login'><a>Login</a></Link> </button>
                 </ul>
             </div>
         </div>
